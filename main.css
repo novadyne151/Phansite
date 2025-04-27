@@ -1,0 +1,97 @@
+body {
+  max-width: 600px;
+  margin: auto;
+  background-color: #aa0000;
+  color: #000000;
+  font-family: "Arsenal", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 1.0;
+  text-align: center;
+}
+
+h1 {
+  width: 600px;
+  text-align: center;
+  color: white;
+  border-color: white;
+  border-width: 5px;
+}
+
+h4 {
+  width: 550px;
+  margin-left: -10px;
+}
+
+p {
+  font-size: 28px;
+  margin-left: auto;
+  padding: 10px;
+  font-family: "Arsenal", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 1.0;
+}
+
+.headerthing {
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: -20px;
+  height: 20px;
+  background-color: #535353;
+}
+
+
+li {
+  margin: auto;
+  width: auto;
+  border: 4px #ffffff;
+  background-color: #000000;
+  padding: 12px;
+  color: white;
+}
+
+#pesterlog {
+  padding: 20px;
+  background-color: #aaaaaa;
+  border: 4px solid #eeeeee;
+  vertical-align: top;
+  top: auto;
+  text-align: left;
+  line-height: 20px;
+  width: 600px;
+  margin-left: auto;
+}
+
+.bigbox {
+  border: 50px solid #c6c6c6;
+  background-color: #c6c6c6;
+  width:  100%;
+  height: 100%;
+  margin-left: -20px;
+  margin-top: 50px;
+}
+
+.smallbox {
+  width: 650px;
+  vertical-align: text-top;
+  background-color: #eeeeee;
+  margin-left: 50px;
+  margin-top: -30px;
+  padding: 0px;
+}
+
+.hsb {
+  z-index: -1;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 300px;
+  border: 3px solid #73AD21;
+}
+
+img {
+    margin-left: auto;
+  width: auto;
+  height: auto;
+}
